@@ -1,28 +1,19 @@
-<center><h1 style="float: right"> Welcome to my profile 👋 </h1> </center>
-<center> My name muhammad rizsky,  kind hearted  software engineer 🧝
+# Muhammad Rizsky, Software Engineer 🧝
+[![Twitter Badge](https://img.shields.io/twitter/follow/MRizsky?label=Mrizsky&style=social)](https://twitter.com/mrizsky) 
+[![GitHub followers](https://img.shields.io/github/followers/rizsky?label=Follow&style=social)](https://github.com/rizsky/?tab=follow)
 
-----
-<center>FO👨‍💻CUS</center>
----
-<center>O👇N</center>
----
-<center> <a href="https://imgbb.com/"><img src="https://i.ibb.co/sy2MyYt/golang.png" alt="golang" border="0"></a></center>
------
------
-<center> 
-<img src="https://media.giphy.com/media/crjSwCdonM49soUMf1/giphy.gif" width="120" height="120" />  
+## Hey buddy, Welcome 👋
 
-<!--
-**rizsky/rizsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" width="170" height="170" alt="GIF" src="https://media.giphy.com/media/crjSwCdonM49soUMf1/giphy.gif" />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+![Rizsky github stats](https://github-readme-stats.vercel.app/api?username=rizsky&show_icons=true&hide_border=true) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizsky&layout=compact&hide_border=true)
+
+
+![AsynctaskCoffee](https://komarev.com/ghpvc/?username=rizsky)
