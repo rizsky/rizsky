@@ -6,8 +6,3 @@
 
 <img align="left" width="170" height="170" alt="GIF" src="https://media.giphy.com/media/crjSwCdonM49soUMf1/giphy.gif" />
 
-
-
-
-
-![AsynctaskCoffee](https://komarev.com/ghpvc/?username=rizsky)
