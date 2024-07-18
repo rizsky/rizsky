@@ -10,10 +10,4 @@
 
 
 
-
-![Rizsky github stats](https://github-readme-stats.vercel.app/api?username=rizsky&show_icons=true&hide_border=true) 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizsky&layout=compact&hide_border=true)
-
-
 ![AsynctaskCoffee](https://komarev.com/ghpvc/?username=rizsky)
